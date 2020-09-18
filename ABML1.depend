@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1598913672 source:c:\users\gladys\documents\dek\pr2\abml1\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	"tipos.h"
+	"fun_general.h"
+	"fun_fecha.h"
+	"alumno.h"
+
+1598911781 c:\users\gladys\documents\dek\pr2\abml1\tipos.h
+
+1598907305 c:\users\gladys\documents\dek\pr2\abml1\fun_general.h
+
+1598907355 c:\users\gladys\documents\dek\pr2\abml1\fun_fecha.h
+
+1598915203 c:\users\gladys\documents\dek\pr2\abml1\alumno.h
+
